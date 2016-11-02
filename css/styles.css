@@ -1,0 +1,10 @@
+body {
+  background-color:red;
+  background-image: url(images/lighthouse.jpg);
+  background-size: auto;
+}
+.medium {
+ width: 500px;
+ height: 300px;
+}
+}
